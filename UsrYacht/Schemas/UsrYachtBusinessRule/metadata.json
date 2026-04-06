@@ -153,7 +153,8 @@
                 "BRT1": "UsrPrice"
               }
             ],
-            "BR3": "BusinessRule_6eccf5b"
+            "BR3": "BusinessRule_6eccf5b",
+            "BR4": false
           },
           {
             "JI0": "Terrasoft.Core.BusinessRules.BusinessRule",

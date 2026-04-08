@@ -127,6 +127,13 @@
   "A4": "92236ab0-0076-463f-9a84-3aa7707cf5a1",
   "A5": "dd7c5d9e-ac6a-4788-99c5-d5e6b0ab6c13"
 }
++ MetaData.Schema.B2 {
+  "UId": "32c2d245-f1de-fc3e-410c-bb33945bb7ae",
+  "A2": "YachtService_caption",
+  "A3": "92236ab0-0076-463f-9a84-3aa7707cf5a1",
+  "A4": "92236ab0-0076-463f-9a84-3aa7707cf5a1",
+  "A5": "dd7c5d9e-ac6a-4788-99c5-d5e6b0ab6c13"
+}
 = MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A4 "92236ab0-0076-463f-9a84-3aa7707cf5a1"
 = MetaData.Schema.B2.["a77180d7-a9d0-5c7d-a47b-74c0545a1774"].A4 "92236ab0-0076-463f-9a84-3aa7707cf5a1"
 = MetaData.Schema.B2.["a53e6c9a-741a-21de-9293-9d87d6014595"].A4 "92236ab0-0076-463f-9a84-3aa7707cf5a1"
@@ -159,6 +166,7 @@
   "149b64e6-0fe1-842e-e898-aa1d51718d2b",
   "43622bb4-b05e-efd8-4fce-ecf32cec9fe2",
   "4f2eb60c-219d-a18c-97c7-f76312035a77",
+  "32c2d245-f1de-fc3e-410c-bb33945bb7ae",
   "fd9e5bd2-19ad-68b5-1356-fe7b39d36f28",
   "a77180d7-a9d0-5c7d-a47b-74c0545a1774",
   "a53e6c9a-741a-21de-9293-9d87d6014595",
